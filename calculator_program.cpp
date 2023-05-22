@@ -1,5 +1,5 @@
 /**
- * @file guessing_num_game.cpp
+ * @file calculator_program.cpp
  * @author Trai Pham (you@domain.com)
  * @brief
  * @version 0.1
